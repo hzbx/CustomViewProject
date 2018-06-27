@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CustomViewProject</string>
+
+    <array name="item_tiitle">
+        <item>自定义下拉刷新</item>
+        <item>fermode蒙层</item>
+        <item>Bitmap各种形状</item>
+        <item>手势应用</item>
+        <item>简单的沉浸式实现</item>
+        <item>测试</item>
+    </array>
+
+    <array name="item_activity">
+        <item>PullDownRefreshActivity</item>
+        <item>XfermodeActivity</item>
+        <item>MuchShadeActivity</item>
+        <item>GestureActivity</item>
+        <item>SystemBarActivity</item>
+        <item>TestActivity</item>
+    </array>
+</resources>
